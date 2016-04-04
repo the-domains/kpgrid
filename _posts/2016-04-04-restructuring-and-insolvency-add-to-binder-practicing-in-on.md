@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.kp-lf.com/Expertise/LegalAreas/RestructuringInsolvency/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "KP | Restructuring & Insolvency\_"
-datePublished: '2016-04-04T11:10:01.531Z'
-dateModified: '2016-04-04T11:09:10.517Z'
+description: "Practicing in one of the major restructuring and insolvency areanas of our times, we have a recognized leading edge restructuring practice built around complex creditor requirements\_"
+datePublished: '2016-04-04T12:10:34.976Z'
+dateModified: '2016-04-04T11:14:40.381Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-04-restructuring-and-insolvency-add-to-binder-practicing-in-on.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-KP | Restructuring & Insolvency 
+Restructuring & Insolvency 
 
 Practicing in one of the major restructuring and insolvency areanas of our times, we have a recognized leading edge restructuring practice built around complex creditor requirements 
 
