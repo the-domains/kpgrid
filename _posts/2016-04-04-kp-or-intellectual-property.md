@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.kp-lf.com/Expertise/LegalAreas/IntellectualProperty/'
 title: 'KP | Intellectual Property'
-datePublished: '2016-04-04T09:28:32.158Z'
-dateModified: '2016-04-04T09:15:16.732Z'
+datePublished: '2016-04-04T09:28:32.261Z'
+dateModified: '2016-04-04T09:15:05.240Z'
 sourcePath: _posts/2016-04-04-kp-or-intellectual-property.md
 published: true
 inFeed: true
