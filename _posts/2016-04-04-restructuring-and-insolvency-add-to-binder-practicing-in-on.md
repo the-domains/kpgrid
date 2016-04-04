@@ -6,9 +6,9 @@ isBasedOnUrl: 'http://www.kp-lf.com/Expertise/LegalAreas/RestructuringInsolvency
 inLanguage: null
 starred: true
 keywords: []
-description: "Practicing in one of the major restructuring and insolvency areanas of our times, we have a recognized leading edge restructuring practice built around complex creditor requirements\_"
-datePublished: '2016-04-04T12:10:34.976Z'
-dateModified: '2016-04-04T11:14:40.381Z'
+description: "Restructuring & Insolvency\_"
+datePublished: '2016-04-04T12:48:59.143Z'
+dateModified: '2016-04-04T12:10:38.877Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-04-restructuring-and-insolvency-add-to-binder-practicing-in-on.md
