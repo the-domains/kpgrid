@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.kp-lf.com'
-  name: Kp-lf
-  favicon: 'http://www.kp-lf.com/favicon.ico'
-  domain: www.kp-lf.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - kp-lf
   - distinction
@@ -18,17 +16,21 @@ keywords:
   - fluency
   - binder
 description: 'If you would like to discuss opportunities to work with us, in a demanding and rewarding environment, please fill out our inquiries form attaching a comprehensive resume, or email us directly at inquiries@kp-lf.com, and one of our partners will be in contact with you.'
-inLanguage: en
+datePublished: '2016-04-04T09:33:16.907Z'
+dateModified: '2016-04-04T09:30:12.664Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.kp-lf.com/Inquiries/InquireaboutworkingatKP/'
 title: 'KP | Working at KP'
-datePublished: '2016-04-04T09:28:31.566Z'
-dateModified: '2016-04-04T09:27:31.587Z'
 sourcePath: _posts/2016-04-04-kp-or-working-at-kp.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Kp-lf
+  domain: www.kp-lf.com
+  url: 'http://www.kp-lf.com'
+  favicon: 'http://www.kp-lf.com/favicon.ico'
+url: kp-or-working-at-kp/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
