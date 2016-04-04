@@ -4,8 +4,15 @@
         <description><![CDATA[KPGrid]]></description>
         <link>https://thegrid.ai/kpgrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 10:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 10:44:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kpgrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NOMOS]]></title>
+            <description><![CDATA[<article><h1>NOMOS</h1><p>Γνωστοποίηση της Απορρόφησης της NOMOS και της INTRACOM IT SERVICES από την INTRASOFT INTERNATIONAL με έδρα το Λουξεμβούργο</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb0e633d40f24d8912abca7e296e8a3f23f0844b.png"></article>]]></description>
+            <link>https://lawdb.intrasoftnet.com/</link>
+            <guid isPermaLink="false">f03acfd4-f4d8-4738-a784-6a4c7a4f0801</guid>
+            <pubDate>Mon, 04 Apr 2016 10:44:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Areios Pagos - Supreme Court of Greece]]></title>
             <description><![CDATA[<article><h1>Areios Pagos - Supreme Court of Greece</h1></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kpgrid/kp-or-procurement-and-construction/index.html</link>
             <guid isPermaLink="false">2268f9cd-a749-4d6d-af2d-8f8e8e276b4b</guid>
             <pubDate>Mon, 04 Apr 2016 09:33:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KP | Restructuring & Insolvency]]></title>
-            <description><![CDATA[<article><h1>KP | Restructuring & Insolvency</h1><p>We are at the forefront of international restructuring, distressed investment and insolvency law and finance across sectors and industries. We work programmatically to incorporate the latest global ideas and developments in the laws and finance of insolvency, such as the use of arbitrage opportunities in the bond and secondary distressed debt, and the primary corporate finance markets, for consensual and non-consensual restructuring, into the substantive and procedural arsenal we bring to the service of investors, creditors and turnaround advisers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b14633302780edf592d064ee537b5f958ff9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kpgrid/kp-or-restructuring-and-insolvency/index.html</link>
-            <guid isPermaLink="false">c9519d38-bca1-4a7b-82fc-58a6a7a2ec53</guid>
-            <pubDate>Mon, 04 Apr 2016 09:33:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
