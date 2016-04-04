@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.kp-lf.com'
-  name: Kp-lf
-  favicon: 'http://www.kp-lf.com/favicon.ico'
-  domain: www.kp-lf.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - construction
   - disputes
@@ -18,17 +16,21 @@ keywords:
   - in-depth
   - hot-plant
 description: 'We have advised on the adoption and improvement of documentation systems and processes for unplanned events and contingencies, as well as on pre- and post-delivery expertise and arbitration, and have successfully arbitrated and litigated construction quality and warranty issues, engineer fees, specification and bill of quantities disputes, change orders, scope changes and interference claims, in managed, unit and fixed price projects.'
-inLanguage: en
+datePublished: '2016-04-04T09:33:46.546Z'
+dateModified: '2016-04-04T09:33:03.814Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.kp-lf.com/Expertise/LegalAreas/Litigation/ConstructionDisputes/'
 title: 'KP | Construction Disputes'
-datePublished: '2016-04-04T09:28:32.111Z'
-dateModified: '2016-04-04T09:15:58.809Z'
 sourcePath: _posts/2016-04-04-kp-or-construction-disputes.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Kp-lf
+  domain: www.kp-lf.com
+  url: 'http://www.kp-lf.com'
+  favicon: 'http://www.kp-lf.com/favicon.ico'
+url: kp-or-construction-disputes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
