@@ -4,22 +4,8 @@
         <description><![CDATA[KPGrid]]></description>
         <link>https://thegrid.ai/kpgrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 09:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 09:33:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kpgrid/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[KP | Capital Markets]]></title>
-            <description><![CDATA[<article><h1>KP | Capital Markets</h1><p>We bring broad and deep insights about local regulatory, cultural and transactional particularities to the service of sophisticated capital markets transactions. Capital markets partners have significant track records in capital market transactions, including IPO's, secondary offerings and market and OTC transactions in the Athens Exchange and foreign organized markets, such as the AIM market of the LSE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b14633302780edf592d064ee537b5f958ff9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kpgrid/kp-or-capital-markets/index.html</link>
-            <guid isPermaLink="false">f0d10839-5f76-4028-a7fc-88019ae18763</guid>
-            <pubDate>Mon, 04 Apr 2016 09:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KP | Construction Disputes]]></title>
-            <description><![CDATA[<article><h1>KP | Construction Disputes</h1><p>We have advised on the adoption and improvement of documentation systems and processes for unplanned events and contingencies, as well as on pre- and post-delivery expertise and arbitration, and have successfully arbitrated and litigated construction quality and warranty issues, engineer fees, specification and bill of quantities disputes, change orders, scope changes and interference claims, in managed, unit and fixed price projects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b14633302780edf592d064ee537b5f958ff9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/kpgrid/kp-or-construction-disputes/index.html</link>
-            <guid isPermaLink="false">45a94fd8-beb0-44e8-9ed9-b4ef2e2c5a98</guid>
-            <pubDate>Mon, 04 Apr 2016 09:33:46 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[KP | Media Disputes]]></title>
             <description><![CDATA[<article><h1>KP | Media Disputes</h1><p>Drawing on our rich litigation capabilities, we bring our media disputes practice to the service of in-house and professional crisis-management experts leading reputation and goodwill protection projects, emphasising interim and conservatory measures prevention over restitution and damage claims, where objectively possible.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c9dfbba815b3a3022853374496308be398a74fc.jpg"></article>]]></description>
@@ -74,6 +60,20 @@
             <description><![CDATA[<article><h1>KP | Expertise</h1><p>KP is a broad niche practice serving international and domestic commercial and industrial corporates, financial institutions, and natural persons facing critical and high impact situations, in contentious and non-contentious matters within its fields of expertise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
             <link>http://www.kp-lf.com/Expertise/</link>
             <guid isPermaLink="false">61c3f3fc-b7e1-4276-8307-f1c5e135e083</guid>
+            <pubDate>Mon, 04 Apr 2016 09:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KP | Disputes]]></title>
+            <description><![CDATA[<article><h1>KP | Disputes</h1><p>We derive our edge from the combination of good black letter law, the rich experience of disputes partners in advocacy before a wide array of courts, tribunals and authorities, commitment to working with leading forensic, industry and subject matter experts, and structured analytical methodology for preparing, documenting, pleading and proving contentious matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b14633302780edf592d064ee537b5f958ff9.jpg"></article>]]></description>
+            <link>http://www.kp-lf.com/Expertise/Services/Disputes/</link>
+            <guid isPermaLink="false">e54b4db6-d38b-41d1-bcbd-e1464aed6732</guid>
+            <pubDate>Mon, 04 Apr 2016 09:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KP | People]]></title>
+            <description><![CDATA[<article><h1>KP | People</h1><p>We believe in the large picture, and enjoy being on top of developments in the areas of our expertise locally, regionally and globally. We put personal distinction and thought leadership to the service of closely knit work-teams, assisted by analytical tools and processes, enabling teams to perform as a whole to the maximum individual competence level in respect of each different legal and buiness objective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
+            <link>http://www.kp-lf.com/People/</link>
+            <guid isPermaLink="false">7e5f4971-f512-4b39-b531-8cf749307697</guid>
             <pubDate>Mon, 04 Apr 2016 09:28:33 GMT</pubDate>
         </item>
     </channel>
