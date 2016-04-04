@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.kp-lf.com'
-  name: Kp-lf
-  favicon: 'http://www.kp-lf.com/favicon.ico'
-  domain: www.kp-lf.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - non-dispute
   - high-impact
@@ -18,17 +16,21 @@ keywords:
   - harness
   - expertise
 description: 'KP is a broad niche practice serving international and domestic commercial and industrial corporates, financial institutions, and natural persons facing critical and high impact situations, in contentious and non-contentious matters within its fields of expertise.'
-inLanguage: en
+datePublished: '2016-04-04T09:40:45.684Z'
+dateModified: '2016-04-04T09:40:44.072Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.kp-lf.com/Expertise/'
 title: 'KP | Expertise'
-datePublished: '2016-04-04T09:28:33.955Z'
-dateModified: '2016-04-04T09:11:33.671Z'
 sourcePath: _posts/2016-04-04-kp-or-expertise.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Kp-lf
+  domain: www.kp-lf.com
+  url: 'http://www.kp-lf.com'
+  favicon: 'http://www.kp-lf.com/favicon.ico'
+url: kp-or-expertise/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
