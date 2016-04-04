@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[KPGrid]]></title>
         <description><![CDATA[KPGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kpgrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 09:11:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 09:11:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kpgrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KP | Expertise]]></title>
+            <description><![CDATA[<article><h1>KP | Expertise</h1><p>KP is a broad niche practice serving international and domestic commercial and industrial corporates, financial institutions, and natural persons facing critical and high impact situations, in contentious and non-contentious matters within its fields of expertise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
+            <link>http://www.kp-lf.com/Expertise/</link>
+            <guid isPermaLink="false">7ad23cb0-507d-43f1-8ae1-5305f5a231ad</guid>
+            <pubDate>Mon, 04 Apr 2016 09:11:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to KP]]></title>
             <description><![CDATA[<article><h1>Welcome to KP</h1><p>KP is led by a team of seasoned experts with diverse and extensive experience in complex and cross-border disputes, restructuring and insolvency, corporate and sovereign finance, procurement & construction, and intellectual property, with international focus and established track records in high impact contentious and non-contentious matters.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
