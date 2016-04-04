@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://www.kp-lf.com/Expertise/LegalAreas/RestructuringInsolvency/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "Restructuring & Insolvency\_"
-datePublished: '2016-04-04T12:48:59.143Z'
-dateModified: '2016-04-04T12:10:38.877Z'
+datePublished: '2016-04-04T12:50:04.229Z'
+dateModified: '2016-04-04T12:49:40.868Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-04-restructuring-and-insolvency-add-to-binder-practicing-in-on.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.kp-lf.com
   url: null
   favicon: null
+url: restructuring-and-insolvency/index.html
 _context: 'http://schema.org'
 _type: Article
 
