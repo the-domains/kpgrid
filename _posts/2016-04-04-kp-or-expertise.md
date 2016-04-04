@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.kp-lf.com/Expertise/'
 title: 'KP | Expertise'
-datePublished: '2016-04-04T09:11:26.696Z'
-dateModified: '2016-04-04T09:11:07.836Z'
+datePublished: '2016-04-04T09:28:33.955Z'
+dateModified: '2016-04-04T09:11:33.671Z'
 sourcePath: _posts/2016-04-04-kp-or-expertise.md
 published: true
 inFeed: true
