@@ -16,8 +16,8 @@ keywords:
   - programmatically
   - large
 description: 'We are at the forefront of the law and practice related to the sovereign debt crisis. Partners at KP have established track records advising managers of general syndicated and special sovereign issues, as well as large portfolio managers on secondary market transactions.'
-datePublished: '2016-04-04T09:33:12.469Z'
-dateModified: '2016-04-04T09:32:19.000Z'
+datePublished: '2016-04-04T09:33:27.117Z'
+dateModified: '2016-04-04T09:33:19.975Z'
 author: []
 related: []
 app_links: []
