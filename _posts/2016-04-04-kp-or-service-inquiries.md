@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.kp-lf.com'
-  name: Kp-lf
-  favicon: 'http://www.kp-lf.com/favicon.ico'
-  domain: www.kp-lf.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - inquiries
   - partner
@@ -18,17 +16,21 @@ keywords:
   - form
   - query
 description: 'If you are already in touch with one of our partners, you are welcome to address all inquiries about new matters to that partner. If you have no prior contact with us, please fill out the adjacent form, or email us at inquiries@kp-lf.com, and an appropriate partner will respond to your query.'
-inLanguage: en
+datePublished: '2016-04-04T09:33:24.029Z'
+dateModified: '2016-04-04T09:32:10.866Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.kp-lf.com/Inquiries/Inquireaboutourservices/'
 title: 'KP | Service inquiries'
-datePublished: '2016-04-04T09:28:31.742Z'
-dateModified: '2016-04-04T09:27:17.050Z'
 sourcePath: _posts/2016-04-04-kp-or-service-inquiries.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Kp-lf
+  domain: www.kp-lf.com
+  url: 'http://www.kp-lf.com'
+  favicon: 'http://www.kp-lf.com/favicon.ico'
+url: kp-or-service-inquiries/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
