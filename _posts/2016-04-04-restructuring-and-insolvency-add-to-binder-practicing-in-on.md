@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "KP | Restructuring & Insolvency\_"
-datePublished: '2016-04-04T11:07:20.934Z'
-dateModified: '2016-04-04T11:05:23.577Z'
+datePublished: '2016-04-04T11:09:05.178Z'
+dateModified: '2016-04-04T11:07:25.263Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-04-restructuring-and-insolvency-add-to-binder-practicing-in-on.md
