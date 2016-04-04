@@ -4,8 +4,15 @@
         <description><![CDATA[KPGrid]]></description>
         <link>https://thegrid.ai/kpgrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 09:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 09:30:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kpgrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[KP | People]]></title>
+            <description><![CDATA[<article><h1>KP | People</h1><p>We believe in the large picture, and enjoy being on top of developments in the areas of our expertise locally, regionally and globally. We put personal distinction and thought leadership to the service of closely knit work-teams, assisted by analytical tools and processes, enabling teams to perform as a whole to the maximum individual competence level in respect of each different legal and buiness objective.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
+            <link>http://www.kp-lf.com/People/</link>
+            <guid isPermaLink="false">7e5f4971-f512-4b39-b531-8cf749307697</guid>
+            <pubDate>Mon, 04 Apr 2016 09:28:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[KP | Transactions & Advice]]></title>
             <description><![CDATA[<article><h1>KP | Transactions & Advice</h1><p>We invest time and effort to achieve a deep understanding of our clients' specific business, markets and industries. We work programmatically to integrate into the guidance we provide the potential impact of factors seemingly extrinsic to a legal question or transaction, such as eventual disputes, conflicts of laws or the likelihood and potential impact of reforms, through the prism of the most critical or latest jurisprudence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2504b14633302780edf592d064ee537b5f958ff9.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>KP | Commitment</h1><p>We plan our time and resources around the needs of our clients, so that no partner is ever unavailable for one matter, even while working on another. We realize the world works around the clock, and so do we: emergency response processes and groups are here to answer effectively to any time-critical requirement.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
             <link>http://www.kp-lf.com/AboutKP/Commitment/</link>
             <guid isPermaLink="false">7e09a076-ca88-41f0-b73d-e73fb113c7f3</guid>
-            <pubDate>Mon, 04 Apr 2016 09:28:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KP | Professional Ethics]]></title>
-            <description><![CDATA[<article><h1>KP | Professional Ethics</h1><p>Through regular proactive analysis of actual and perceived conflict, we spot early not only the legal, but also the ethical and business parameters critical to serving clients to the highest standard of ethics and professional integrity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/889018c645a31e38869fb52889fddb5512d07c8a.jpg"></article>]]></description>
-            <link>http://www.kp-lf.com/AboutKP/ProfessionalEthics/</link>
-            <guid isPermaLink="false">55fec192-4a09-44ee-954e-ff40f0f61a2d</guid>
             <pubDate>Mon, 04 Apr 2016 09:28:32 GMT</pubDate>
         </item>
     </channel>
