@@ -1,4 +1,4 @@
-name: KP Law Firm (Grid)
+name: KP Law Firm (Grid-app share)
 favicon: null
 layout_spectrum: 0.24971
 typography_spectrum: 1
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#222222'
+    - '#ffffff'
+    - '#616161'
+    - '#a02013'
+    - '#80abbb'
   brandStrength: 0.25
   lightness: 0.75
   saturation: 0.25
