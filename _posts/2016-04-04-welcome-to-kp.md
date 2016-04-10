@@ -6,18 +6,18 @@ inLanguage: en
 starred: false
 keywords:
   - athens
+  - shareholder
+  - corporate
+  - rita
+  - anthouli
+  - court-audits
+  - commercial
+  - disputes
+  - binder
   - law
-  - finance
-  - corporates
-  - school
-  - alba
-  - transactions
-  - mba
-  - privatisation
-  - methodologies
-description: 'Christina Papachristopoulou is a finance, corporate & commercial, and capital markets partner, specializing in the entire spectrum of finance transactions, structures and methodologies and complex corporate transactions.'
-datePublished: '2016-04-04T09:43:20.989Z'
-dateModified: '2016-04-04T09:37:48.838Z'
+description: 'Prior to joining KP, she worked for a recognized Athens litigation firm, and had leading roles in a large number of general corporate and shareholder disputes, fraud claims, shareholder minority rights, court-audits and management replacement cases.'
+datePublished: '2016-04-10T13:18:59.836Z'
+dateModified: '2016-04-10T13:18:59.255Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Welcome to KP</h1><p>Christina Papachristopoulou is a finance, corporate &amp; commercial, and capital markets partner, specializing in the entire spectrum of finance transactions, structures and methodologies and complex corporate transactions.</p><img src="http://www.kp-lf.com/upload/people/CKP_photo.jpeg" /></article>
+<article style=""><h1>Welcome to KP</h1><p>Prior to joining KP, she worked for a recognized Athens litigation firm, and had leading roles in a large number of general corporate and shareholder disputes, fraud claims, shareholder minority rights, court-audits and management replacement cases.</p><img src="http://www.kp-lf.com/upload/people/RNA_photo.jpeg" /></article>
